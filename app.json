@@ -1,0 +1,12 @@
+{
+  "name": "nativeredux",
+  "displayName": "nativeredux",
+  "expo": {
+    "name": "nativeredux",
+    "slug": "nativeredux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
